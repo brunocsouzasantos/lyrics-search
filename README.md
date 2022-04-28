@@ -1,4 +1,6 @@
-# Aula de desenvolvimento de uma aplicação para consulta de letras de músicas utilizando a API
+# Aplicação utilizando javacript puro.
+
+## Consulta de letras de músicas utilizando API
 
 ## Professor Roger Melo
 
